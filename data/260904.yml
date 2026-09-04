@@ -7,7 +7,7 @@ about:
   head: 90b92f0
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:52:41Z
+  collectedAt: 2026-09-04T20:58:00Z
 timeline:
   created: 2022-05-28
   lastCommit: 2024-07-15
@@ -81,5 +81,43 @@ total:
   openIssue: 5
   commit: 115
 ---
+path: /home/runner/.x-repo/github.com/ZingerLittleBee/netop
+collectedAt: 2026-09-04T20:58:01Z
+loc:
+  Rust:
+    code: 633
+    comments: 4
+    blanks: 49
+    files: 4
+  Yaml:
+    code: 37
+    comments: 0
+    blanks: 5
+    files: 1
+  Toml:
+    code: 18
+    comments: 0
+    blanks: 1
+    files: 1
+  Dockerfile:
+    code: 9
+    comments: 11
+    blanks: 11
+    files: 1
+  Json:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 178
+    blanks: 62
+    files: 3
+total:
+  code: 742
+  comments: 216
+  blanks: 132
+  files: 11
 ---
 
