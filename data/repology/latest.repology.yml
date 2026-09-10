@@ -1,0 +1,114 @@
+- repo: aur
+  srcname: netop
+  binname: netop
+  visiblename: netop
+  version: 0.1.4
+  origversion: 0.1.4-2
+  status: newest
+  summary: A terminal command line interface that can customize the filter network traffic rule with BPF
+  maintainers:
+    - kemelzaidan@aur
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: netop
+  visiblename: netop
+  version: 0.1.4
+  origversion: null
+  status: newest
+  summary: A network monitor using bpf
+  maintainers:
+    - marcus@means.no
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: netop
+  visiblename: netop
+  version: 0.1.4
+  origversion: null
+  status: newest
+  summary: Network monitor using bpf
+  maintainers:
+    - marcus@means.no
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: netop
+  visiblename: netop
+  version: 0.1.4
+  origversion: null
+  status: newest
+  summary: Network monitor using bpf
+  maintainers:
+    - marcus@means.no
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: netop
+  visiblename: netop
+  version: 0.1.4
+  origversion: null
+  status: newest
+  summary: Network monitor using bpf
+  maintainers:
+    - marcus@means.no
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: netop
+  visiblename: netop
+  version: 0.1.4
+  origversion: null
+  status: newest
+  summary: Network monitor using bpf
+  maintainers:
+    - marcus@means.no
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: netop
+  visiblename: netop
+  version: 0.1.4
+  origversion: null
+  status: newest
+  summary: Network monitor using bpf
+  maintainers:
+    - marcus@means.no
+  licenses:
+    - MIT
+- repo: pkgsrc_2026_1
+  srcname: net/netop
+  binname: netop
+  visiblename: net/netop
+  version: 0.1.4
+  origversion: null
+  status: newest
+  summary: Network top
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
+- repo: pkgsrc_2026_2
+  srcname: net/netop
+  binname: netop
+  visiblename: net/netop
+  version: 0.1.4
+  origversion: null
+  status: newest
+  summary: Network top
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
+- repo: pkgsrc_current
+  srcname: net/netop
+  binname: netop
+  visiblename: net/netop
+  version: 0.1.4
+  origversion: null
+  status: newest
+  summary: Network top
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
